@@ -1,0 +1,25 @@
+{
+  "name": "lab11",
+  "version": "1.0.0",
+  "description": "Laboratorio node+express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AD-Azula/A01066813_TC2005B.1.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Emilio Gallegos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AD-Azula/A01066813_TC2005B.1/issues"
+  },
+  "homepage": "https://github.com/AD-Azula/A01066813_TC2005B.1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
